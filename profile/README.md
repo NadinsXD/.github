@@ -9,7 +9,7 @@ Now is your chance to get this ROM onto your device and enjoy the NadinsXD Goodn
 
 You can visit the following repositories for better insights:
 
-- [Manifest Heavens](https://github.com/NadinsXD/manifest)
+- [Manifest NadinsXD](https://github.com/NadinsXD/manifest)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
